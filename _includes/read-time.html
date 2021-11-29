@@ -4,9 +4,7 @@
 
 {% assign words = include.content | strip_html | number_of_words: "auto" %}
 
-<!-- words per minute  -->
-
-{% assign wpm = 180 %}
+{% assign wpm = 100 %}
 {% assign min_time = 1 %}
 
 {% assign read_time = words | divided_by: wpm %}
