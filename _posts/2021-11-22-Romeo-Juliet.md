@@ -3,7 +3,7 @@ title: Romeo and Juliet改编剧本
 intro: 大一暑假的莎剧小学期改编作品，演出效果非常好，剧组拿了很多奖，也包括最佳编剧（笑）。那段美好的时光啊～几乎全部照搬原文。
 author: Sapio-S
 date: 2021-11-22
-categories: [创作]
+categories: [杂谈,创作]
 tags: [创作,剧本]
 ---
 
