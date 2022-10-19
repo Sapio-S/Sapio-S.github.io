@@ -2,8 +2,8 @@
 title: 从0开始看懂PPO
 intro: 一学位毕业论文的文献综述。
 author: Sapio-S
-date: 2022-10-20
-categories: [杂谈,创作]
+date: 2022-06-10
+categories: [科研,创作]
 tags: [RL,技术]
 math: true
 ---
