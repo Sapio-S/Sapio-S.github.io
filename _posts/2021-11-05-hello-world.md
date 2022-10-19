@@ -3,7 +3,7 @@ title: hello world!
 intro: 又名：我的第一篇blog。简单记录一下搭博客的经过。
 author: Sapio-S
 date: 2021-11-05
-categories: [杂谈, 技术]
+categories: [笔记, 技术]
 tags: [踩坑, 碎碎念]
 ---
 人到底会在《网络安全工程》课上做出什么啊。
